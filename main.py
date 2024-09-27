@@ -2,7 +2,7 @@ from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 from random import *
 from time import *
-import json
+
 app = QApplication([])
 from main_window import *
 from menu_window import *
